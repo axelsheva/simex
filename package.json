@@ -1,0 +1,26 @@
+{
+  "name": "simex",
+  "version": "1.0.0",
+  "description": "Simex API on TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelsheva/simex.git"
+  },
+  "author": "axelsheva94@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-fetch": "^2.3.4",
+    "ts-loader": "^6.0.2",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
