@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-import { Pair, SerializedPair } from 'src/models/pair';
+import { Pair, SerializedPair } from '../models/pair';
 
 const BASE_URL = 'https://simex.global/api';
 

@@ -34,12 +34,6 @@
             "esnext",
             "es6"
         ],
-        "baseUrl": ".",
-        "paths": {
-            "*": [
-                "./*"
-            ]
-        },
         "types": [
             "node"
         ],
